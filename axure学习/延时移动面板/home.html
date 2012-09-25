@@ -1,0 +1,131 @@
+<HTML><HEAD><meta http-equiv="content-type" content="text/html; charset=utf-8"><meta http-equiv="imagetoolbar" content="no"><link href="Resources/axurerppage.css" type="text/css" rel="stylesheet"></HEAD><BODY>
+<script type="text/javascript">
+function InitializeSubmenu(submenucontainerid, tablecellroid, tablecellid, fname) { 
+var s = "";
+s = s + "function " + fname + "() { ";
+s = s + "document.getElementById(submenucontainerid).style.visibility='';";
+s = s + "BringToFront(submenucontainerid);";
+s = s + "}";
+if ((index = navigator.userAgent.indexOf("MSIE")) >= 0)
+s = s + "document.getElementById('" + tablecellid + "').attachEvent(\"onmouseover\", " + fname + ");";
+else
+s = s + "document.getElementById('" + tablecellid + "').addEventListener(\"mouseover\", " + fname + ", true);";
+s = s + "document.getElementById(tablecellroid).onclick = function() {";
+s = s + "if( document.createEvent ) {";
+s = s + "var evObj = document.createEvent('MouseEvents');";
+s = s + "evObj.initEvent( 'click', true, false );";
+s = s + "document.getElementById(tablecellid).dispatchEvent(evObj);";
+s = s + "} else if( document.createEventObject ) {";
+s = s + "document.getElementById(tablecellid).fireEvent('onclick');";
+s = s + "}";
+s = s + "}";
+eval(s);
+}
+</script>
+
+<DIV id=u0 style="position:absolute; left:50px; top:26.6001px; width:255px; height:17px; ; ; text-align: left ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+<DIV id=u0_rtf>&bull; <span style="margin-top:-5px"><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#000000; font-size:13px;"><b>延时移动面板</b></span><br></span></DIV></DIV>
+<DIV id=ou1 style="position:absolute; left:45px; top:60px; width:471px; height:36px;; overflow:visible">
+
+<span style="position:absolute; left:-3px; top:-3px; width:479px; height:44px; ;
+filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='home_files/u1.png',sizingMethod='scale');
+"><img style="width:479px; height:44px; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);" 
+src="home_files/u1.png" border="0" alt=""></span>
+
+</DIV>
+<DIV id=u1container style="position:absolute; left:45px; top:60px; width:471px; height:36px;; overflow:visible;">
+
+<DIV id=u2 style="position:absolute; left:2px; top:9.5px; width:466px; height:16px; ; ; text-align: center ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+<DIV id=u2_rtf>&nbsp;</DIV></DIV>
+</DIV>
+<IMG id=u1 src="Resources/transparent.gif" style="position:absolute; left:45px; top:60px; width:470px; height:35px"  >
+
+<DIV id=ou3 style="position:absolute; left:45px; top:95px; width:471px; height:101px;; overflow:visible">
+
+<span style="position:absolute; left:-3px; top:-3px; width:479px; height:109px; ;
+filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='home_files/u3.png',sizingMethod='scale');
+"><img style="width:479px; height:109px; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);" 
+src="home_files/u3.png" border="0" alt=""></span>
+
+</DIV>
+<DIV id=u3container style="position:absolute; left:45px; top:95px; width:471px; height:101px;; overflow:visible;">
+
+<DIV id=u4 style="position:absolute; left:2px; top:42px; width:466px; height:16px; ; ; text-align: center ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+<DIV id=u4_rtf>&nbsp;</DIV></DIV>
+</DIV>
+<IMG id=u3 src="Resources/transparent.gif" style="position:absolute; left:45px; top:95px; width:470px; height:100px"  >
+
+<DIV id=u5container style="position:absolute; left:70px; top:116.6001px; width:215px; height:17px; ; ; text-align: left " >
+<DIV id=u6 style="position:absolute; left:16px; top:0px; width:197px; height:17px; ; ; text-align: left ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+<DIV id=u6_rtf><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#000000; font-size:13px;">允许用户发表评论</span></DIV></DIV>
+</DIV>
+<DIV style="position:absolute; left:70px; top:116.6001px; width:215px; height:17px; ; ; text-align: left " ><INPUT id=u5 style="position:absolute; left:-3px; top:-2px;" type=checkbox value=checkbox  ></DIV>
+<DIV id=u7container style="position:absolute; left:70px; top:146.6001px; width:215px; height:17px; ; ; text-align: left " >
+<DIV id=u8 style="position:absolute; left:16px; top:0px; width:197px; height:17px; ; ; text-align: left ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+<DIV id=u8_rtf><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#000000; font-size:13px;">允许用户加为好友</span></DIV></DIV>
+</DIV>
+<DIV style="position:absolute; left:70px; top:146.6001px; width:215px; height:17px; ; ; text-align: left " ><INPUT id=u7 style="position:absolute; left:-3px; top:-2px;" type=checkbox value=checkbox  ></DIV>
+<DIV id=u9 style="position:absolute; left:65px; top:70px; width:150px; height:18.4px; ; ; text-align: left ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+<DIV id=u9_rtf><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#000000; font-size:13px;">演示面板</span></DIV></DIV>
+<DIV id=u10 style="; position:absolute; left:45px; top:95px; width:471px; height:166px;; overflow:hidden">
+<DIV id=pd0u10 style="position:absolute; left:0px; top:0px; width:1px; height:1px; ;">
+<DIV id=ou11 style="position:absolute; left:0px; top:0px; width:471px; height:166px;; overflow:visible">
+
+<span style="position:absolute; left:-3px; top:-3px; width:479px; height:174px; ;
+filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='home_files/u11.png',sizingMethod='scale');
+"><img style="width:479px; height:174px; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);" 
+src="home_files/u11.png" border="0" alt=""></span>
+
+</DIV>
+<DIV id=u11container style="position:absolute; left:0px; top:0px; width:471px; height:166px;; overflow:visible;">
+
+<DIV id=u12 style="position:absolute; left:2px; top:74.5px; width:466px; height:16px; ; ; text-align: center ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+<DIV id=u12_rtf>&nbsp;</DIV></DIV>
+</DIV>
+<IMG id=u11 src="Resources/transparent.gif" style="position:absolute; left:0px; top:0px; width:470px; height:165px"  >
+
+<DIV id=u13 style="position:absolute; left:35px; top:34.8px; width:415px; height:18.4px; ; ; text-align: left ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+<DIV id=u13_rtf><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#000000; font-size:13px;">点击&ldquo;打开设置&rdquo;，面板会延时向下移动。</span></DIV></DIV>
+</DIV>
+</DIV>
+<DIV id=u14 style="; position:absolute; left:420px; top:60px; width:96px; height:36px;; overflow:hidden">
+<DIV id=pd0u14 style="position:absolute; left:0px; top:0px; width:1px; height:1px; ;">
+<DIV id=u15 style="position:absolute; left:15px; top:8.6px; width:65px; height:18.4px; ; ; text-align: left ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+<DIV id=u15_rtf><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#0000FF; font-size:13px;">打开设置</span></DIV></DIV>
+</DIV>
+<DIV id=pd1u14 style="position:absolute; left:0px; top:0px; width:1px; height:1px; visibility:hidden;">
+<DIV id=u16 style="position:absolute; left:15px; top:8.6px; width:65px; height:18.4px; ; ; text-align: left ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+<DIV id=u16_rtf><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#0000FF; font-size:13px;">关闭设置</span></DIV></DIV>
+</DIV>
+</DIV>
+<DIV id=u17 style="position:absolute; left:85px; top:1186.6px; width:45px; height:18.4px; ; ; text-align: left ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+<DIV id=u17_rtf><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#000000; font-size:13px;">制作：</span></DIV></DIV>
+<DIV id=u18 style="position:absolute; left:145px; top:1186.6px; width:100px; height:18.4px; ; ; text-align: left ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+<DIV id=u18_rtf><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#0000FF; font-size:13px;"><u>尹广磊</u></span></DIV></DIV>
+<DIV id=u19 style="position:absolute; left:85px; top:1162.6px; width:40px; height:36.8px; ; ; text-align: left ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+<DIV id=u19_rtf><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#000000; font-size:13px;">发布：</span></DIV></DIV>
+<DIV id=u20 style="position:absolute; left:145px; top:1162.6px; width:100px; height:18.4px; ; ; text-align: left ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+<DIV id=u20_rtf><span style=" font-family:'Arial'; color:#0000FF; font-size:13px;"><u>Axure</u></span><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#0000FF; font-size:13px;"><u>.</u></span><span style=" font-family:'Arial'; color:#0000FF; font-size:13px;"><u>org</u></span></DIV></DIV>
+<span style="position:absolute; left:85px; top:525px; width:418px; height:314px">
+<span id=ou21 style="position:absolute;left:0px;top:0px;width:418px;height:314px;
+filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='home_files/u21.png',sizingMethod='scale');
+"><img style="width:418px; height:314px; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);" 
+src="home_files/u21.png" border="0" alt=""></span>
+</span>
+<IMG id=u21 src="Resources/transparent.gif" style="position:absolute; left:85px; top:525px; width:418px; height:314px"   >
+
+<DIV id=u22 style="position:absolute; left:45px; top:429px; width:150px; height:17px; ; ; text-align: left ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+<DIV id=u22_rtf>&bull; <span style="margin-top:-5px"><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#000000; font-size:13px;"><b>制作原理</b></span><br></span></DIV></DIV>
+<DIV id=u23 style="position:absolute; left:55px; top:470px; width:525px; height:34px; ; ; text-align: left ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+<DIV id=u23_rtf><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#000000; font-size:13px;">1.　给交互添加一个为真的条件，制造一个可以连续的</span><span style=" font-family:'Arial'; color:#000000; font-size:13px;">Case</span><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#000000; font-size:13px;">动作事件。<br>2.　每隔50</span><span style=" font-family:'Arial'; color:#000000; font-size:13px;">ms</span><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#000000; font-size:13px;">,让动态面板移动一个相对位置。</span></DIV></DIV>
+<DIV id=u24 style="position:absolute; left:55px; top:861px; width:575px; height:17px; ; ; text-align: left ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+<DIV id=u24_rtf><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#000000; font-size:13px;">3.　注意：在</span><span style=" font-family:'Arial'; color:#000000; font-size:13px;">Case</span><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#000000; font-size:13px;">2上点右键，选择</span><span style=" font-family:'Arial'; color:#000000; font-size:13px;">Change</span><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#000000; font-size:13px;"> </span><span style=" font-family:'Arial'; color:#000000; font-size:13px;">to</span><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#000000; font-size:13px;"> </span><span style=" font-family:'Arial'; color:#000000; font-size:13px;">ELSE</span><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#000000; font-size:13px;"> </span><span style=" font-family:'Arial'; color:#000000; font-size:13px;">IF</span><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#000000; font-size:13px;">，才可制造出想要的</span><span style=" font-family:'Arial'; color:#000000; font-size:13px;">Case</span><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#000000; font-size:13px;"> 2（</span><span style=" font-family:'Arial'; color:#000000; font-size:13px;">If</span><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#000000; font-size:13px;"> </span><span style=" font-family:'Arial'; color:#000000; font-size:13px;">True</span><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#000000; font-size:13px;">）</span></DIV></DIV>
+<span style="position:absolute; left:83px; top:900px; width:332px; height:205px">
+<span id=ou25 style="position:absolute;left:0px;top:0px;width:332px;height:205px;
+filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='home_files/u25.png',sizingMethod='scale');
+"><img style="width:332px; height:205px; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);" 
+src="home_files/u25.png" border="0" alt=""></span>
+</span>
+<IMG id=u25 src="Resources/transparent.gif" style="position:absolute; left:83px; top:900px; width:332px; height:205px"   >
+<SCRIPT src="Resources/axurerp_pagescript.js"></SCRIPT>
+<SCRIPT src="home_files/axurerp_pagespecificscript.js"></SCRIPT></BODY></HTML>

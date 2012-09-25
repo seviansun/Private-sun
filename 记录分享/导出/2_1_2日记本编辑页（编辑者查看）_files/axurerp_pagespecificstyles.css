@@ -1,0 +1,3103 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+#u0 {
+    position:absolute;
+    left:95px;
+    top:79px;
+    width:956px;
+    height:1008px;
+    overflow:hidden;
+}
+
+#pd1u0 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:956px;
+    height:1008px;
+    
+}
+
+.u1_normal {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u1_normal.png');
+}
+
+.u1_container {
+    position:absolute;
+    left:535px;
+    top:41px;
+    width:420px;
+    height:740px;
+}
+
+#u1_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:426px;
+    height:746px;
+}
+
+.u2 {
+    position:absolute;
+    left:2px;
+    top:362px;
+    width:416px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u3_normal {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u1_normal.png');
+}
+
+.u3_container {
+    position:absolute;
+    left:530px;
+    top:36px;
+    width:420px;
+    height:740px;
+}
+
+#u3_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:426px;
+    height:746px;
+}
+
+.u4 {
+    position:absolute;
+    left:2px;
+    top:362px;
+    width:416px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5_normal {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u5_normal.png');
+}
+
+.u5_container {
+    position:absolute;
+    left:25px;
+    top:114px;
+    width:50px;
+    height:50px;
+}
+
+#u5_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:56px;
+    height:56px;
+}
+
+.u6 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7_normal {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u1_normal.png');
+}
+
+.u7_container {
+    position:absolute;
+    left:55px;
+    top:41px;
+    width:420px;
+    height:740px;
+}
+
+#u7_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:426px;
+    height:746px;
+}
+
+.u8 {
+    position:absolute;
+    left:2px;
+    top:362px;
+    width:416px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9_normal {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u1_normal.png');
+}
+
+.u9_container {
+    position:absolute;
+    left:60px;
+    top:36px;
+    width:420px;
+    height:740px;
+}
+
+#u9_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:426px;
+    height:746px;
+}
+
+.u10 {
+    position:absolute;
+    left:2px;
+    top:362px;
+    width:416px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11_normal {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u11_normal.png');
+}
+
+.u11_container {
+    position:absolute;
+    left:490px;
+    top:24px;
+    width:30px;
+    height:757px;
+}
+
+#u11_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:763px;
+}
+
+.u12 {
+    position:absolute;
+    left:2px;
+    top:370px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13_normal {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u1_normal.png');
+}
+
+.u13_container {
+    position:absolute;
+    left:65px;
+    top:31px;
+    width:420px;
+    height:740px;
+}
+
+#u13_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:426px;
+    height:746px;
+}
+
+.u14 {
+    position:absolute;
+    left:2px;
+    top:362px;
+    width:416px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15_normal {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u5_normal.png');
+}
+
+.u15_container {
+    position:absolute;
+    left:15px;
+    top:54px;
+    width:50px;
+    height:50px;
+}
+
+#u15_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:56px;
+    height:56px;
+}
+
+.u16 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17_normal {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u1_normal.png');
+}
+
+.u17_container {
+    position:absolute;
+    left:525px;
+    top:31px;
+    width:420px;
+    height:740px;
+}
+
+#u17_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:426px;
+    height:746px;
+}
+
+.u18 {
+    position:absolute;
+    left:2px;
+    top:362px;
+    width:416px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u19_line.png');
+}
+
+.u19_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:15px;
+}
+
+.u19 {
+    position:absolute;
+    left:75px;
+    top:73px;
+    width:10px;
+    height:15px;
+    
+}
+
+.u20_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u20_line.png');
+}
+
+.u20_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:15px;
+}
+
+.u20 {
+    position:absolute;
+    left:68px;
+    top:40px;
+    width:10px;
+    height:15px;
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+
+}
+
+.u21 {
+    position:absolute;
+    left:81px;
+    top:50px;
+    width:150px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u22_line.png');
+}
+
+.u22_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:15px;
+}
+
+.u22 {
+    position:absolute;
+    left:75px;
+    top:32px;
+    width:10px;
+    height:15px;
+    
+}
+
+.u23_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u23_line.png');
+}
+
+.u23_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u23 {
+    position:absolute;
+    left:541px;
+    top:112px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u24_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u24_line.png');
+}
+
+.u24_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u24 {
+    position:absolute;
+    left:541px;
+    top:148px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u25_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u25_line.png');
+}
+
+.u25_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u25 {
+    position:absolute;
+    left:541px;
+    top:184px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u26_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u26_line.png');
+}
+
+.u26_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u26 {
+    position:absolute;
+    left:541px;
+    top:220px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u27_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u27_line.png');
+}
+
+.u27_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u27 {
+    position:absolute;
+    left:541px;
+    top:256px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u28_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u28_line.png');
+}
+
+.u28_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u28 {
+    position:absolute;
+    left:541px;
+    top:293px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u29_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u29_line.png');
+}
+
+.u29_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u29 {
+    position:absolute;
+    left:541px;
+    top:329px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u30_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u30_line.png');
+}
+
+.u30_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u30 {
+    position:absolute;
+    left:541px;
+    top:365px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u31_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u31_line.png');
+}
+
+.u31_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u31 {
+    position:absolute;
+    left:541px;
+    top:401px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u32_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u32_line.png');
+}
+
+.u32_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u32 {
+    position:absolute;
+    left:541px;
+    top:437px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u33_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u33_line.png');
+}
+
+.u33_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u33 {
+    position:absolute;
+    left:541px;
+    top:473px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u34_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u34_line.png');
+}
+
+.u34_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u34 {
+    position:absolute;
+    left:541px;
+    top:509px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u35_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u35_line.png');
+}
+
+.u35_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u35 {
+    position:absolute;
+    left:541px;
+    top:545px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u36_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u36_line.png');
+}
+
+.u36_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u36 {
+    position:absolute;
+    left:541px;
+    top:582px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u37_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u37_line.png');
+}
+
+.u37_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u37 {
+    position:absolute;
+    left:541px;
+    top:618px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u38_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u38_line.png');
+}
+
+.u38_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u38 {
+    position:absolute;
+    left:541px;
+    top:654px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u39_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u39_line.png');
+}
+
+.u39_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u39 {
+    position:absolute;
+    left:541px;
+    top:690px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u40_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u40_line.png');
+}
+
+.u40_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u40 {
+    position:absolute;
+    left:541px;
+    top:726px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u41 {
+    position:absolute;
+    left:541px;
+    top:50px;
+    width:150px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u42_line.png');
+}
+
+.u42_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:20px;
+}
+
+.u42 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:10px;
+    height:20px;
+    
+}
+
+.u43_normal {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u43_normal.png');
+}
+
+.u43_container {
+    position:absolute;
+    left:62px;
+    top:750px;
+    width:16px;
+    height:32px;-webkit-transform: rotate(315deg);
+    -moz-transform: rotate(315deg);
+    -ms-transform: rotate(315deg);
+    transform: rotate(315deg);
+
+}
+
+#u43_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:22px;
+    height:38px;
+}
+
+.u44 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u45_normal {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u45_normal.png');
+}
+
+.u45_container {
+    position:absolute;
+    left:74px;
+    top:738px;
+    width:16px;
+    height:32px;-webkit-transform: rotate(315deg);
+    -moz-transform: rotate(315deg);
+    -ms-transform: rotate(315deg);
+    transform: rotate(315deg);
+
+}
+
+#u45_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:22px;
+    height:38px;
+}
+
+.u46 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u47_normal {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u47_normal.png');
+}
+
+.u47_container {
+    position:absolute;
+    left:65px;
+    top:8px;
+    width:420px;
+    height:23px;
+}
+
+#u47_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:426px;
+    height:29px;
+}
+
+.u48 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:416px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u49_normal {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u49_normal.png');
+}
+
+.u49_container {
+    position:absolute;
+    left:239px;
+    top:12px;
+    width:15px;
+    height:15px;
+}
+
+#u49_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:15px;
+    height:15px;
+}
+
+.u50 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:11px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u51 {
+    position:absolute;
+    left:75px;
+    top:82px;
+    width:401px;
+    height:660px;
+    overflow:hidden;
+}
+
+#pd0u51 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:401px;
+    height:660px;
+    
+}
+
+.u52 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:400px;
+    height:659px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u53 {
+    position:absolute;
+    left:81px;
+    top:93px;
+    width:387px;
+    height:648px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u54_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u54_line.png');
+}
+
+.u54_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u54 {
+    position:absolute;
+    left:81px;
+    top:112px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u55_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u55_line.png');
+}
+
+.u55_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u55 {
+    position:absolute;
+    left:81px;
+    top:148px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u56_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u56_line.png');
+}
+
+.u56_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u56 {
+    position:absolute;
+    left:81px;
+    top:184px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u57_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u57_line.png');
+}
+
+.u57_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u57 {
+    position:absolute;
+    left:81px;
+    top:220px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u58_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u58_line.png');
+}
+
+.u58_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u58 {
+    position:absolute;
+    left:81px;
+    top:256px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u59_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u59_line.png');
+}
+
+.u59_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u59 {
+    position:absolute;
+    left:81px;
+    top:293px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u60_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u60_line.png');
+}
+
+.u60_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u60 {
+    position:absolute;
+    left:81px;
+    top:329px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u61_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u61_line.png');
+}
+
+.u61_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u61 {
+    position:absolute;
+    left:81px;
+    top:365px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u62_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u62_line.png');
+}
+
+.u62_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u62 {
+    position:absolute;
+    left:81px;
+    top:401px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u63_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u63_line.png');
+}
+
+.u63_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u63 {
+    position:absolute;
+    left:81px;
+    top:437px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u64_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u64_line.png');
+}
+
+.u64_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u64 {
+    position:absolute;
+    left:81px;
+    top:473px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u65_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u65_line.png');
+}
+
+.u65_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u65 {
+    position:absolute;
+    left:81px;
+    top:509px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u66_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u66_line.png');
+}
+
+.u66_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u66 {
+    position:absolute;
+    left:81px;
+    top:545px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u67_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u67_line.png');
+}
+
+.u67_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u67 {
+    position:absolute;
+    left:81px;
+    top:582px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u68_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u68_line.png');
+}
+
+.u68_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u68 {
+    position:absolute;
+    left:81px;
+    top:618px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u69_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u69_line.png');
+}
+
+.u69_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u69 {
+    position:absolute;
+    left:81px;
+    top:654px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u70_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u70_line.png');
+}
+
+.u70_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u70 {
+    position:absolute;
+    left:81px;
+    top:690px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u71 {
+    position:absolute;
+    left:412px;
+    top:747px;
+    width:60px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u72_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u72_line.png');
+}
+
+.u72_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u72 {
+    position:absolute;
+    left:81px;
+    top:726px;
+    width:387px;
+    height:10px;
+    
+}
+
+#u73 {
+    position:absolute;
+    left:85px;
+    top:88px;
+    width:383px;
+    height:638px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u74 {
+    position:absolute;
+    left:541px;
+    top:75px;
+    width:200px;
+    height:54px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd0u0 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:956px;
+    height:1008px;
+    
+}
+
+.u75_normal {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u1_normal.png');
+}
+
+.u75_container {
+    position:absolute;
+    left:535px;
+    top:41px;
+    width:420px;
+    height:740px;
+}
+
+#u75_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:426px;
+    height:746px;
+}
+
+.u76 {
+    position:absolute;
+    left:2px;
+    top:362px;
+    width:416px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u77_normal {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u1_normal.png');
+}
+
+.u77_container {
+    position:absolute;
+    left:530px;
+    top:36px;
+    width:420px;
+    height:740px;
+}
+
+#u77_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:426px;
+    height:746px;
+}
+
+.u78 {
+    position:absolute;
+    left:2px;
+    top:362px;
+    width:416px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u79_normal {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u5_normal.png');
+}
+
+.u79_container {
+    position:absolute;
+    left:25px;
+    top:114px;
+    width:50px;
+    height:50px;
+}
+
+#u79_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:56px;
+    height:56px;
+}
+
+.u80 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u81_normal {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u1_normal.png');
+}
+
+.u81_container {
+    position:absolute;
+    left:55px;
+    top:41px;
+    width:420px;
+    height:740px;
+}
+
+#u81_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:426px;
+    height:746px;
+}
+
+.u82 {
+    position:absolute;
+    left:2px;
+    top:362px;
+    width:416px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u83_normal {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u1_normal.png');
+}
+
+.u83_container {
+    position:absolute;
+    left:60px;
+    top:36px;
+    width:420px;
+    height:740px;
+}
+
+#u83_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:426px;
+    height:746px;
+}
+
+.u84 {
+    position:absolute;
+    left:2px;
+    top:362px;
+    width:416px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u85_normal {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u11_normal.png');
+}
+
+.u85_container {
+    position:absolute;
+    left:490px;
+    top:24px;
+    width:30px;
+    height:757px;
+}
+
+#u85_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:763px;
+}
+
+.u86 {
+    position:absolute;
+    left:2px;
+    top:370px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u87_normal {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u1_normal.png');
+}
+
+.u87_container {
+    position:absolute;
+    left:65px;
+    top:31px;
+    width:420px;
+    height:740px;
+}
+
+#u87_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:426px;
+    height:746px;
+}
+
+.u88 {
+    position:absolute;
+    left:2px;
+    top:362px;
+    width:416px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u89_normal {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u5_normal.png');
+}
+
+.u89_container {
+    position:absolute;
+    left:15px;
+    top:54px;
+    width:50px;
+    height:50px;
+}
+
+#u89_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:56px;
+    height:56px;
+}
+
+.u90 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u91_normal {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u1_normal.png');
+}
+
+.u91_container {
+    position:absolute;
+    left:525px;
+    top:31px;
+    width:420px;
+    height:740px;
+}
+
+#u91_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:426px;
+    height:746px;
+}
+
+.u92 {
+    position:absolute;
+    left:2px;
+    top:362px;
+    width:416px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u93_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u93_line.png');
+}
+
+.u93_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:15px;
+}
+
+.u93 {
+    position:absolute;
+    left:75px;
+    top:73px;
+    width:10px;
+    height:15px;
+    
+}
+
+.u94_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u94_line.png');
+}
+
+.u94_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:15px;
+}
+
+.u94 {
+    position:absolute;
+    left:68px;
+    top:40px;
+    width:10px;
+    height:15px;
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+
+}
+
+.u95 {
+    position:absolute;
+    left:81px;
+    top:50px;
+    width:150px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u96 {
+    position:absolute;
+    left:81px;
+    top:93px;
+    width:387px;
+    height:648px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u97_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u97_line.png');
+}
+
+.u97_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u97 {
+    position:absolute;
+    left:81px;
+    top:112px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u98_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u98_line.png');
+}
+
+.u98_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u98 {
+    position:absolute;
+    left:81px;
+    top:148px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u99_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u99_line.png');
+}
+
+.u99_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u99 {
+    position:absolute;
+    left:81px;
+    top:184px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u100_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u100_line.png');
+}
+
+.u100_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u100 {
+    position:absolute;
+    left:81px;
+    top:220px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u101_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u101_line.png');
+}
+
+.u101_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u101 {
+    position:absolute;
+    left:81px;
+    top:256px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u102_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u102_line.png');
+}
+
+.u102_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u102 {
+    position:absolute;
+    left:81px;
+    top:293px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u103_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u103_line.png');
+}
+
+.u103_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u103 {
+    position:absolute;
+    left:81px;
+    top:329px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u104_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u104_line.png');
+}
+
+.u104_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u104 {
+    position:absolute;
+    left:81px;
+    top:365px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u105_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u105_line.png');
+}
+
+.u105_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u105 {
+    position:absolute;
+    left:81px;
+    top:401px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u106_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u106_line.png');
+}
+
+.u106_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u106 {
+    position:absolute;
+    left:81px;
+    top:437px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u107_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u107_line.png');
+}
+
+.u107_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u107 {
+    position:absolute;
+    left:81px;
+    top:473px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u108_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u108_line.png');
+}
+
+.u108_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u108 {
+    position:absolute;
+    left:81px;
+    top:509px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u109_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u109_line.png');
+}
+
+.u109_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u109 {
+    position:absolute;
+    left:81px;
+    top:545px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u110_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u110_line.png');
+}
+
+.u110_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u110 {
+    position:absolute;
+    left:81px;
+    top:582px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u111_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u111_line.png');
+}
+
+.u111_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u111 {
+    position:absolute;
+    left:81px;
+    top:618px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u112_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u112_line.png');
+}
+
+.u112_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u112 {
+    position:absolute;
+    left:81px;
+    top:654px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u113_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u113_line.png');
+}
+
+.u113_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u113 {
+    position:absolute;
+    left:81px;
+    top:690px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u114_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u114_line.png');
+}
+
+.u114_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u114 {
+    position:absolute;
+    left:81px;
+    top:726px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u115_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u115_line.png');
+}
+
+.u115_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:15px;
+}
+
+.u115 {
+    position:absolute;
+    left:75px;
+    top:32px;
+    width:10px;
+    height:15px;
+    
+}
+
+.u116_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u116_line.png');
+}
+
+.u116_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u116 {
+    position:absolute;
+    left:541px;
+    top:148px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u117_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u117_line.png');
+}
+
+.u117_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u117 {
+    position:absolute;
+    left:541px;
+    top:184px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u118_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u118_line.png');
+}
+
+.u118_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u118 {
+    position:absolute;
+    left:541px;
+    top:220px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u119_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u119_line.png');
+}
+
+.u119_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u119 {
+    position:absolute;
+    left:541px;
+    top:256px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u120_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u120_line.png');
+}
+
+.u120_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u120 {
+    position:absolute;
+    left:541px;
+    top:293px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u121_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u121_line.png');
+}
+
+.u121_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u121 {
+    position:absolute;
+    left:541px;
+    top:329px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u122_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u122_line.png');
+}
+
+.u122_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u122 {
+    position:absolute;
+    left:541px;
+    top:365px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u123_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u123_line.png');
+}
+
+.u123_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u123 {
+    position:absolute;
+    left:541px;
+    top:401px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u124_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u124_line.png');
+}
+
+.u124_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u124 {
+    position:absolute;
+    left:541px;
+    top:437px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u125_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u125_line.png');
+}
+
+.u125_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u125 {
+    position:absolute;
+    left:541px;
+    top:473px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u126_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u126_line.png');
+}
+
+.u126_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u126 {
+    position:absolute;
+    left:541px;
+    top:509px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u127_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u127_line.png');
+}
+
+.u127_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u127 {
+    position:absolute;
+    left:541px;
+    top:545px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u128_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u128_line.png');
+}
+
+.u128_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u128 {
+    position:absolute;
+    left:541px;
+    top:582px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u129_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u129_line.png');
+}
+
+.u129_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u129 {
+    position:absolute;
+    left:541px;
+    top:618px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u130_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u130_line.png');
+}
+
+.u130_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u130 {
+    position:absolute;
+    left:541px;
+    top:654px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u131_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u131_line.png');
+}
+
+.u131_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u131 {
+    position:absolute;
+    left:541px;
+    top:690px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u132_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u132_line.png');
+}
+
+.u132_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u132 {
+    position:absolute;
+    left:541px;
+    top:726px;
+    width:387px;
+    height:10px;
+    
+}
+
+.u133 {
+    position:absolute;
+    left:541px;
+    top:50px;
+    width:150px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u134_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u134_line.png');
+}
+
+.u134_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:20px;
+}
+
+.u134 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:10px;
+    height:20px;
+    
+}
+
+.u135_normal {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u43_normal.png');
+}
+
+.u135_container {
+    position:absolute;
+    left:62px;
+    top:750px;
+    width:16px;
+    height:32px;-webkit-transform: rotate(315deg);
+    -moz-transform: rotate(315deg);
+    -ms-transform: rotate(315deg);
+    transform: rotate(315deg);
+
+}
+
+#u135_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:22px;
+    height:38px;
+}
+
+.u136 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u137_normal {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u45_normal.png');
+}
+
+.u137_container {
+    position:absolute;
+    left:74px;
+    top:738px;
+    width:16px;
+    height:32px;-webkit-transform: rotate(315deg);
+    -moz-transform: rotate(315deg);
+    -ms-transform: rotate(315deg);
+    transform: rotate(315deg);
+
+}
+
+#u137_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:22px;
+    height:38px;
+}
+
+.u138 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u139 {
+    position:absolute;
+    left:412px;
+    top:747px;
+    width:60px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u140_normal {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u140_normal.png');
+}
+
+.u140_container {
+    position:absolute;
+    left:525px;
+    top:7px;
+    width:419px;
+    height:23px;
+}
+
+#u140_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:425px;
+    height:29px;
+}
+
+.u141 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:415px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u142_normal {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u49_normal.png');
+}
+
+.u142_container {
+    position:absolute;
+    left:699px;
+    top:11px;
+    width:15px;
+    height:15px;
+}
+
+#u142_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:15px;
+    height:15px;
+}
+
+.u143 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:11px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u144 {
+    position:absolute;
+    left:541px;
+    top:75px;
+    width:200px;
+    height:54px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u145_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u145_line.png');
+}
+
+.u145_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:387px;
+    height:3px;
+}
+
+.u145 {
+    position:absolute;
+    left:541px;
+    top:112px;
+    width:387px;
+    height:10px;
+    
+}
+
+#u146 {
+    position:absolute;
+    left:546px;
+    top:87px;
+    width:388px;
+    height:26px;
+    overflow:hidden;
+}
+
+#pd0u146 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:388px;
+    height:26px;
+    
+}
+
+.u147 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:387px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+#u148 {
+    position:absolute;
+    left:540px;
+    top:89px;
+    width:387px;
+    height:22px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u149_normal {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u149_normal.png');
+}
+
+.u149_container {
+    position:absolute;
+    left:-53px;
+    top:0px;
+    width:1300px;
+    height:33px;
+}
+
+#u149_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1300px;
+    height:33px;
+}
+
+.u150 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:1296px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u151_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u151_line.png');
+}
+
+.u151_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:20px;
+}
+
+.u151 {
+    position:absolute;
+    left:95px;
+    top:33px;
+    width:10px;
+    height:20px;
+    
+}
+
+.u152_line {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u152_line.png');
+}
+
+.u152_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:20px;
+}
+
+.u152 {
+    position:absolute;
+    left:846px;
+    top:33px;
+    width:10px;
+    height:20px;
+    
+}
+
+.u153 {
+    position:absolute;
+    left:338px;
+    top:929px;
+    width:150px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u154 {
+    position:absolute;
+    left:176px;
+    top:963px;
+    width:150px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u155 {
+    position:absolute;
+    left:176px;
+    top:997px;
+    width:150px;
+    height:26px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u156_normal {
+    background-image: url('../2_1_2日记本编辑页（编辑者查看）_files/u156_normal.png');
+}
+
+.u156_container {
+    position:absolute;
+    left:847px;
+    top:51px;
+    width:27px;
+    height:29px;-webkit-transform: rotate(320deg);
+    -moz-transform: rotate(320deg);
+    -ms-transform: rotate(320deg);
+    transform: rotate(320deg);
+
+}
+
+#u156_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:33px;
+    height:35px;
+}
+
+.u157 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:23px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u158 {
+    position:absolute;
+    left:176px;
+    top:910px;
+    width:150px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u159 {
+    position:absolute;
+    left:573px;
+    top:918px;
+    width:150px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u160 {
+    position:absolute;
+    left:573px;
+    top:941px;
+    width:150px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u161 {
+    position:absolute;
+    left:573px;
+    top:964px;
+    width:150px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u162 {
+    position:absolute;
+    left:100px;
+    top:55px;
+    width:150px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
