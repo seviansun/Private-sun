@@ -1028,9 +1028,19 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="2_1_1日记本详情页（编辑者查看）_files/u98_normal.png");
 }
 
-* html .u331_normal {
+* html .u331_start {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="2_1_1日记本详情页（编辑者查看）_files/u331_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="2_1_1日记本详情页（编辑者查看）_files/u331_start.png");
+}
+
+* html .u331_line {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="2_1_1日记本详情页（编辑者查看）_files/u331_line.png");
+}
+
+* html .u333_start {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="2_1_1日记本详情页（编辑者查看）_files/u333_start.png");
 }
 
 * html .u333_line {
@@ -1038,13 +1048,23 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="2_1_1日记本详情页（编辑者查看）_files/u333_line.png");
 }
 
-* html .u334_line {
+* html .u335_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="2_1_1日记本详情页（编辑者查看）_files/u334_line.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="2_1_1日记本详情页（编辑者查看）_files/u335_normal.png");
 }
 
-* html .u335_line {
+* html .u337_line {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="2_1_1日记本详情页（编辑者查看）_files/u335_line.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="2_1_1日记本详情页（编辑者查看）_files/u337_line.png");
+}
+
+* html .u338_line {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="2_1_1日记本详情页（编辑者查看）_files/u338_line.png");
+}
+
+* html .u339_line {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="2_1_1日记本详情页（编辑者查看）_files/u339_line.png");
 }
 

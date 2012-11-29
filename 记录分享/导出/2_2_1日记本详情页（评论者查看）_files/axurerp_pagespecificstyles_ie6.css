@@ -323,3 +323,13 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="2_2_1日记本详情页（评论者查看）_files/u0_normal.png");
 }
 
+* html .u102_start {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="2_2_1日记本详情页（评论者查看）_files/u102_start.png");
+}
+
+* html .u102_line {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="2_2_1日记本详情页（评论者查看）_files/u102_line.png");
+}
+

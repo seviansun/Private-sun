@@ -6154,11 +6154,105 @@ div {
     word-wrap:break-word;
 }
 
-.u331_normal {
-    background-image: url('../2_1_1日记本详情页（编辑者查看）_files/u331_normal.png');
+.u331_start {
+    background-image: url('../2_1_1日记本详情页（编辑者查看）_files/u331_start.png');
 }
 
-.u331_container {
+.u331_start {
+    position:absolute;
+    left:-4px;
+    top:-5px;
+    width:14px;
+    height:20px;
+}
+
+.u331_line {
+    background-image: url('../2_1_1日记本详情页（编辑者查看）_files/u331_line.png');
+}
+
+.u331_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:47px;
+    height:3px;
+}
+
+.u331 {
+    position:absolute;
+    left:78px;
+    top:785px;
+    width:47px;
+    height:10px;
+    
+}
+
+.u332 {
+    position:absolute;
+    left:132px;
+    top:784px;
+    width:150px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u333_start {
+    background-image: url('../2_1_1日记本详情页（编辑者查看）_files/u333_start.png');
+}
+
+.u333_start {
+    position:absolute;
+    left:-4px;
+    top:-5px;
+    width:14px;
+    height:20px;
+}
+
+.u333_line {
+    background-image: url('../2_1_1日记本详情页（编辑者查看）_files/u333_line.png');
+}
+
+.u333_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:54px;
+    height:3px;
+}
+
+.u333 {
+    position:absolute;
+    left:838px;
+    top:24px;
+    width:54px;
+    height:10px;
+    
+}
+
+.u334 {
+    position:absolute;
+    left:897px;
+    top:5px;
+    width:90px;
+    height:52px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u335_normal {
+    background-image: url('../2_1_1日记本详情页（编辑者查看）_files/u335_normal.png');
+}
+
+.u335_container {
     position:absolute;
     left:-53px;
     top:0px;
@@ -6166,7 +6260,7 @@ div {
     height:33px;
 }
 
-#u331_img {
+#u335_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -6174,7 +6268,7 @@ div {
     height:33px;
 }
 
-.u332 {
+.u336 {
     position:absolute;
     left:2px;
     top:8px;
@@ -6188,11 +6282,11 @@ div {
     word-wrap:break-word;
 }
 
-.u333_line {
-    background-image: url('../2_1_1日记本详情页（编辑者查看）_files/u333_line.png');
+.u337_line {
+    background-image: url('../2_1_1日记本详情页（编辑者查看）_files/u337_line.png');
 }
 
-.u333_line {
+.u337_line {
     position:absolute;
     left:4px;
     top:0px;
@@ -6200,7 +6294,7 @@ div {
     height:20px;
 }
 
-.u333 {
+.u337 {
     position:absolute;
     left:95px;
     top:33px;
@@ -6209,11 +6303,11 @@ div {
     
 }
 
-.u334_line {
-    background-image: url('../2_1_1日记本详情页（编辑者查看）_files/u334_line.png');
+.u338_line {
+    background-image: url('../2_1_1日记本详情页（编辑者查看）_files/u338_line.png');
 }
 
-.u334_line {
+.u338_line {
     position:absolute;
     left:4px;
     top:0px;
@@ -6221,7 +6315,7 @@ div {
     height:20px;
 }
 
-.u334 {
+.u338 {
     position:absolute;
     left:846px;
     top:33px;
@@ -6230,11 +6324,11 @@ div {
     
 }
 
-.u335_line {
-    background-image: url('../2_1_1日记本详情页（编辑者查看）_files/u335_line.png');
+.u339_line {
+    background-image: url('../2_1_1日记本详情页（编辑者查看）_files/u339_line.png');
 }
 
-.u335_line {
+.u339_line {
     position:absolute;
     left:4px;
     top:0px;
@@ -6242,7 +6336,7 @@ div {
     height:20px;
 }
 
-.u335 {
+.u339 {
     position:absolute;
     left:95px;
     top:79px;
@@ -6251,7 +6345,7 @@ div {
     
 }
 
-.u336 {
+.u340 {
     position:absolute;
     left:330px;
     top:1117px;
@@ -6265,7 +6359,7 @@ div {
     word-wrap:break-word;
 }
 
-.u337 {
+.u341 {
     position:absolute;
     left:168px;
     top:1151px;
@@ -6279,7 +6373,7 @@ div {
     word-wrap:break-word;
 }
 
-.u338 {
+.u342 {
     position:absolute;
     left:168px;
     top:1185px;
@@ -6293,7 +6387,7 @@ div {
     word-wrap:break-word;
 }
 
-.u339 {
+.u343 {
     position:absolute;
     left:168px;
     top:1223px;
@@ -6307,7 +6401,7 @@ div {
     word-wrap:break-word;
 }
 
-.u340 {
+.u344 {
     position:absolute;
     left:168px;
     top:1098px;
@@ -6321,7 +6415,7 @@ div {
     word-wrap:break-word;
 }
 
-.u341 {
+.u345 {
     position:absolute;
     left:565px;
     top:1106px;
@@ -6335,7 +6429,7 @@ div {
     word-wrap:break-word;
 }
 
-.u342 {
+.u346 {
     position:absolute;
     left:565px;
     top:1129px;
@@ -6349,7 +6443,7 @@ div {
     word-wrap:break-word;
 }
 
-.u343 {
+.u347 {
     position:absolute;
     left:565px;
     top:1152px;
@@ -6363,7 +6457,7 @@ div {
     word-wrap:break-word;
 }
 
-.u344 {
+.u348 {
     position:absolute;
     left:100px;
     top:55px;

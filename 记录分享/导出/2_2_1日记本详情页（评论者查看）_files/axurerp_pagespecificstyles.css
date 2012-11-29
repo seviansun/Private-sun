@@ -1902,3 +1902,50 @@ div {
     word-wrap:break-word;
 }
 
+.u102_start {
+    background-image: url('../2_2_1日记本详情页（评论者查看）_files/u102_start.png');
+}
+
+.u102_start {
+    position:absolute;
+    left:-4px;
+    top:-5px;
+    width:14px;
+    height:20px;
+}
+
+.u102_line {
+    background-image: url('../2_2_1日记本详情页（评论者查看）_files/u102_line.png');
+}
+
+.u102_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:54px;
+    height:3px;
+}
+
+.u102 {
+    position:absolute;
+    left:896px;
+    top:72px;
+    width:54px;
+    height:10px;
+    
+}
+
+.u103 {
+    position:absolute;
+    left:955px;
+    top:53px;
+    width:90px;
+    height:52px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
