@@ -41,7 +41,7 @@ div {
     left:20px;
     top:60px;
     width:612px;
-    height:500px
+    height:326px
 }
 
 .u2_normal {
@@ -189,7 +189,7 @@ div {
     left:0px;
     top:21px;
     width:115px;
-    height:58px;
+    height:50px;
 }
 
 #u10_img {
@@ -197,15 +197,15 @@ div {
     left:-3px;
     top:-3px;
     width:121px;
-    height:64px;
+    height:56px;
 }
 
 .u11 {
     position:absolute;
     left:2px;
-    top:20px;
+    top:17px;
     width:111px;
-    height:17px;
+    height:16px;
     ;
     ;
     ;
@@ -223,7 +223,7 @@ div {
     left:115px;
     top:21px;
     width:207px;
-    height:58px;
+    height:50px;
 }
 
 #u12_img {
@@ -231,13 +231,13 @@ div {
     left:-3px;
     top:-3px;
     width:213px;
-    height:64px;
+    height:56px;
 }
 
 .u13 {
     position:absolute;
     left:2px;
-    top:21px;
+    top:17px;
     width:203px;
     height:16px;
     ;
@@ -257,7 +257,7 @@ div {
     left:322px;
     top:21px;
     width:196px;
-    height:58px;
+    height:50px;
 }
 
 #u14_img {
@@ -265,13 +265,13 @@ div {
     left:-3px;
     top:-3px;
     width:202px;
-    height:64px;
+    height:56px;
 }
 
 .u15 {
     position:absolute;
     left:2px;
-    top:21px;
+    top:17px;
     width:192px;
     height:16px;
     ;
@@ -291,7 +291,7 @@ div {
     left:518px;
     top:21px;
     width:89px;
-    height:58px;
+    height:50px;
 }
 
 #u16_img {
@@ -299,13 +299,13 @@ div {
     left:-3px;
     top:-3px;
     width:95px;
-    height:64px;
+    height:56px;
 }
 
 .u17 {
     position:absolute;
     left:2px;
-    top:21px;
+    top:17px;
     width:85px;
     height:16px;
     ;
@@ -317,15 +317,15 @@ div {
 }
 
 .u18_normal {
-    background-image: url('../更新记录_files/u18_normal.png');
+    background-image: url('../更新记录_files/u10_normal.png');
 }
 
 .u18_container {
     position:absolute;
     left:0px;
-    top:79px;
+    top:71px;
     width:115px;
-    height:148px;
+    height:50px;
 }
 
 #u18_img {
@@ -333,15 +333,15 @@ div {
     left:-3px;
     top:-3px;
     width:121px;
-    height:154px;
+    height:56px;
 }
 
 .u19 {
     position:absolute;
     left:2px;
-    top:68px;
+    top:17px;
     width:111px;
-    height:12px;
+    height:16px;
     ;
     ;
     ;
@@ -351,15 +351,15 @@ div {
 }
 
 .u20_normal {
-    background-image: url('../更新记录_files/u20_normal.png');
+    background-image: url('../更新记录_files/u12_normal.png');
 }
 
 .u20_container {
     position:absolute;
     left:115px;
-    top:79px;
+    top:71px;
     width:207px;
-    height:148px;
+    height:50px;
 }
 
 #u20_img {
@@ -367,15 +367,15 @@ div {
     left:-3px;
     top:-3px;
     width:213px;
-    height:154px;
+    height:56px;
 }
 
 .u21 {
     position:absolute;
     left:2px;
-    top:62px;
+    top:17px;
     width:203px;
-    height:24px;
+    height:16px;
     ;
     ;
     ;
@@ -385,15 +385,15 @@ div {
 }
 
 .u22_normal {
-    background-image: url('../更新记录_files/u22_normal.png');
+    background-image: url('../更新记录_files/u14_normal.png');
 }
 
 .u22_container {
     position:absolute;
     left:322px;
-    top:79px;
+    top:71px;
     width:196px;
-    height:148px;
+    height:50px;
 }
 
 #u22_img {
@@ -401,15 +401,15 @@ div {
     left:-3px;
     top:-3px;
     width:202px;
-    height:154px;
+    height:56px;
 }
 
 .u23 {
     position:absolute;
     left:2px;
-    top:68px;
+    top:17px;
     width:192px;
-    height:12px;
+    height:16px;
     ;
     ;
     ;
@@ -419,15 +419,15 @@ div {
 }
 
 .u24_normal {
-    background-image: url('../更新记录_files/u24_normal.png');
+    background-image: url('../更新记录_files/u16_normal.png');
 }
 
 .u24_container {
     position:absolute;
     left:518px;
-    top:79px;
+    top:71px;
     width:89px;
-    height:148px;
+    height:50px;
 }
 
 #u24_img {
@@ -435,13 +435,13 @@ div {
     left:-3px;
     top:-3px;
     width:95px;
-    height:154px;
+    height:56px;
 }
 
 .u25 {
     position:absolute;
     left:2px;
-    top:66px;
+    top:17px;
     width:85px;
     height:16px;
     ;
@@ -453,15 +453,15 @@ div {
 }
 
 .u26_normal {
-    background-image: url('../更新记录_files/u26_normal.png');
+    background-image: url('../更新记录_files/u10_normal.png');
 }
 
 .u26_container {
     position:absolute;
     left:0px;
-    top:227px;
+    top:121px;
     width:115px;
-    height:71px;
+    height:50px;
 }
 
 #u26_img {
@@ -469,13 +469,13 @@ div {
     left:-3px;
     top:-3px;
     width:121px;
-    height:77px;
+    height:56px;
 }
 
 .u27 {
     position:absolute;
     left:2px;
-    top:28px;
+    top:17px;
     width:111px;
     height:16px;
     ;
@@ -487,15 +487,15 @@ div {
 }
 
 .u28_normal {
-    background-image: url('../更新记录_files/u28_normal.png');
+    background-image: url('../更新记录_files/u12_normal.png');
 }
 
 .u28_container {
     position:absolute;
     left:115px;
-    top:227px;
+    top:121px;
     width:207px;
-    height:71px;
+    height:50px;
 }
 
 #u28_img {
@@ -503,13 +503,13 @@ div {
     left:-3px;
     top:-3px;
     width:213px;
-    height:77px;
+    height:56px;
 }
 
 .u29 {
     position:absolute;
     left:2px;
-    top:28px;
+    top:17px;
     width:203px;
     height:16px;
     ;
@@ -521,15 +521,15 @@ div {
 }
 
 .u30_normal {
-    background-image: url('../更新记录_files/u30_normal.png');
+    background-image: url('../更新记录_files/u14_normal.png');
 }
 
 .u30_container {
     position:absolute;
     left:322px;
-    top:227px;
+    top:121px;
     width:196px;
-    height:71px;
+    height:50px;
 }
 
 #u30_img {
@@ -537,13 +537,13 @@ div {
     left:-3px;
     top:-3px;
     width:202px;
-    height:77px;
+    height:56px;
 }
 
 .u31 {
     position:absolute;
     left:2px;
-    top:28px;
+    top:17px;
     width:192px;
     height:16px;
     ;
@@ -555,15 +555,15 @@ div {
 }
 
 .u32_normal {
-    background-image: url('../更新记录_files/u32_normal.png');
+    background-image: url('../更新记录_files/u16_normal.png');
 }
 
 .u32_container {
     position:absolute;
     left:518px;
-    top:227px;
+    top:121px;
     width:89px;
-    height:71px;
+    height:50px;
 }
 
 #u32_img {
@@ -571,13 +571,13 @@ div {
     left:-3px;
     top:-3px;
     width:95px;
-    height:77px;
+    height:56px;
 }
 
 .u33 {
     position:absolute;
     left:2px;
-    top:28px;
+    top:17px;
     width:85px;
     height:16px;
     ;
@@ -589,15 +589,15 @@ div {
 }
 
 .u34_normal {
-    background-image: url('../更新记录_files/u26_normal.png');
+    background-image: url('../更新记录_files/u10_normal.png');
 }
 
 .u34_container {
     position:absolute;
     left:0px;
-    top:298px;
+    top:171px;
     width:115px;
-    height:71px;
+    height:50px;
 }
 
 #u34_img {
@@ -605,13 +605,13 @@ div {
     left:-3px;
     top:-3px;
     width:121px;
-    height:77px;
+    height:56px;
 }
 
 .u35 {
     position:absolute;
     left:2px;
-    top:28px;
+    top:17px;
     width:111px;
     height:16px;
     ;
@@ -623,15 +623,15 @@ div {
 }
 
 .u36_normal {
-    background-image: url('../更新记录_files/u28_normal.png');
+    background-image: url('../更新记录_files/u12_normal.png');
 }
 
 .u36_container {
     position:absolute;
     left:115px;
-    top:298px;
+    top:171px;
     width:207px;
-    height:71px;
+    height:50px;
 }
 
 #u36_img {
@@ -639,13 +639,13 @@ div {
     left:-3px;
     top:-3px;
     width:213px;
-    height:77px;
+    height:56px;
 }
 
 .u37 {
     position:absolute;
     left:2px;
-    top:28px;
+    top:17px;
     width:203px;
     height:16px;
     ;
@@ -657,15 +657,15 @@ div {
 }
 
 .u38_normal {
-    background-image: url('../更新记录_files/u30_normal.png');
+    background-image: url('../更新记录_files/u14_normal.png');
 }
 
 .u38_container {
     position:absolute;
     left:322px;
-    top:298px;
+    top:171px;
     width:196px;
-    height:71px;
+    height:50px;
 }
 
 #u38_img {
@@ -673,13 +673,13 @@ div {
     left:-3px;
     top:-3px;
     width:202px;
-    height:77px;
+    height:56px;
 }
 
 .u39 {
     position:absolute;
     left:2px;
-    top:28px;
+    top:17px;
     width:192px;
     height:16px;
     ;
@@ -691,15 +691,15 @@ div {
 }
 
 .u40_normal {
-    background-image: url('../更新记录_files/u32_normal.png');
+    background-image: url('../更新记录_files/u16_normal.png');
 }
 
 .u40_container {
     position:absolute;
     left:518px;
-    top:298px;
+    top:171px;
     width:89px;
-    height:71px;
+    height:50px;
 }
 
 #u40_img {
@@ -707,13 +707,13 @@ div {
     left:-3px;
     top:-3px;
     width:95px;
-    height:77px;
+    height:56px;
 }
 
 .u41 {
     position:absolute;
     left:2px;
-    top:28px;
+    top:17px;
     width:85px;
     height:16px;
     ;
@@ -725,15 +725,15 @@ div {
 }
 
 .u42_normal {
-    background-image: url('../更新记录_files/u26_normal.png');
+    background-image: url('../更新记录_files/u10_normal.png');
 }
 
 .u42_container {
     position:absolute;
     left:0px;
-    top:369px;
+    top:221px;
     width:115px;
-    height:71px;
+    height:50px;
 }
 
 #u42_img {
@@ -741,13 +741,13 @@ div {
     left:-3px;
     top:-3px;
     width:121px;
-    height:77px;
+    height:56px;
 }
 
 .u43 {
     position:absolute;
     left:2px;
-    top:28px;
+    top:17px;
     width:111px;
     height:16px;
     ;
@@ -759,15 +759,15 @@ div {
 }
 
 .u44_normal {
-    background-image: url('../更新记录_files/u28_normal.png');
+    background-image: url('../更新记录_files/u12_normal.png');
 }
 
 .u44_container {
     position:absolute;
     left:115px;
-    top:369px;
+    top:221px;
     width:207px;
-    height:71px;
+    height:50px;
 }
 
 #u44_img {
@@ -775,13 +775,13 @@ div {
     left:-3px;
     top:-3px;
     width:213px;
-    height:77px;
+    height:56px;
 }
 
 .u45 {
     position:absolute;
     left:2px;
-    top:28px;
+    top:17px;
     width:203px;
     height:16px;
     ;
@@ -793,15 +793,15 @@ div {
 }
 
 .u46_normal {
-    background-image: url('../更新记录_files/u30_normal.png');
+    background-image: url('../更新记录_files/u14_normal.png');
 }
 
 .u46_container {
     position:absolute;
     left:322px;
-    top:369px;
+    top:221px;
     width:196px;
-    height:71px;
+    height:50px;
 }
 
 #u46_img {
@@ -809,13 +809,13 @@ div {
     left:-3px;
     top:-3px;
     width:202px;
-    height:77px;
+    height:56px;
 }
 
 .u47 {
     position:absolute;
     left:2px;
-    top:28px;
+    top:17px;
     width:192px;
     height:16px;
     ;
@@ -827,15 +827,15 @@ div {
 }
 
 .u48_normal {
-    background-image: url('../更新记录_files/u32_normal.png');
+    background-image: url('../更新记录_files/u16_normal.png');
 }
 
 .u48_container {
     position:absolute;
     left:518px;
-    top:369px;
+    top:221px;
     width:89px;
-    height:71px;
+    height:50px;
 }
 
 #u48_img {
@@ -843,13 +843,13 @@ div {
     left:-3px;
     top:-3px;
     width:95px;
-    height:77px;
+    height:56px;
 }
 
 .u49 {
     position:absolute;
     left:2px;
-    top:28px;
+    top:17px;
     width:85px;
     height:16px;
     ;
@@ -867,9 +867,9 @@ div {
 .u50_container {
     position:absolute;
     left:0px;
-    top:440px;
+    top:271px;
     width:115px;
-    height:55px;
+    height:50px;
 }
 
 #u50_img {
@@ -877,13 +877,13 @@ div {
     left:-3px;
     top:-3px;
     width:121px;
-    height:61px;
+    height:56px;
 }
 
 .u51 {
     position:absolute;
     left:2px;
-    top:20px;
+    top:17px;
     width:111px;
     height:16px;
     ;
@@ -901,9 +901,9 @@ div {
 .u52_container {
     position:absolute;
     left:115px;
-    top:440px;
+    top:271px;
     width:207px;
-    height:55px;
+    height:50px;
 }
 
 #u52_img {
@@ -911,13 +911,13 @@ div {
     left:-3px;
     top:-3px;
     width:213px;
-    height:61px;
+    height:56px;
 }
 
 .u53 {
     position:absolute;
     left:2px;
-    top:20px;
+    top:17px;
     width:203px;
     height:16px;
     ;
@@ -935,9 +935,9 @@ div {
 .u54_container {
     position:absolute;
     left:322px;
-    top:440px;
+    top:271px;
     width:196px;
-    height:55px;
+    height:50px;
 }
 
 #u54_img {
@@ -945,13 +945,13 @@ div {
     left:-3px;
     top:-3px;
     width:202px;
-    height:61px;
+    height:56px;
 }
 
 .u55 {
     position:absolute;
     left:2px;
-    top:20px;
+    top:17px;
     width:192px;
     height:16px;
     ;
@@ -969,9 +969,9 @@ div {
 .u56_container {
     position:absolute;
     left:518px;
-    top:440px;
+    top:271px;
     width:89px;
-    height:55px;
+    height:50px;
 }
 
 #u56_img {
@@ -979,13 +979,13 @@ div {
     left:-3px;
     top:-3px;
     width:95px;
-    height:61px;
+    height:56px;
 }
 
 .u57 {
     position:absolute;
     left:2px;
-    top:20px;
+    top:17px;
     width:85px;
     height:16px;
     ;

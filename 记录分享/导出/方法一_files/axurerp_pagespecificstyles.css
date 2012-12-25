@@ -1,0 +1,242 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../方法一_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1035px;
+    height:1007px;
+}
+
+#u0_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1035px;
+    height:1007px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:496px;
+    width:1031px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../方法一_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:270px;
+    top:295px;
+    width:735px;
+    height:84px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:741px;
+    height:90px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:731px;
+    height:67px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4 {
+    position:absolute;
+    left:1318px;
+    top:111px;
+    width:200px;
+    height:28px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5_normal {
+    background-image: url('../方法一_files/u5_normal.png');
+}
+
+.u5_container {
+    position:absolute;
+    left:270px;
+    top:425px;
+    width:735px;
+    height:82px;
+}
+
+#u5_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:741px;
+    height:88px;
+}
+
+.u6 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:731px;
+    height:67px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7_normal {
+    background-image: url('../方法一_files/u7_normal.png');
+}
+
+.u7_container {
+    position:absolute;
+    left:270px;
+    top:555px;
+    width:735px;
+    height:83px;
+}
+
+#u7_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:741px;
+    height:89px;
+}
+
+.u8 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:731px;
+    height:67px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9_normal {
+    background-image: url('../方法一_files/u7_normal.png');
+}
+
+.u9_container {
+    position:absolute;
+    left:270px;
+    top:690px;
+    width:735px;
+    height:83px;
+}
+
+#u9_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:741px;
+    height:89px;
+}
+
+.u10 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:731px;
+    height:67px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11_normal {
+    background-image: url('../方法一_files/u7_normal.png');
+}
+
+.u11_container {
+    position:absolute;
+    left:270px;
+    top:820px;
+    width:735px;
+    height:83px;
+}
+
+#u11_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:741px;
+    height:89px;
+}
+
+.u12 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:731px;
+    height:67px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

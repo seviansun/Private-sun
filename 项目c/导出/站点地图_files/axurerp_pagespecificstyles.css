@@ -1,0 +1,430 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../站点地图_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:135px;
+    top:300px;
+    width:100px;
+    height:60px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:66px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:24px;
+    width:96px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../站点地图_files/u0_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:330px;
+    top:145px;
+    width:100px;
+    height:60px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:66px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:24px;
+    width:96px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_normal {
+    background-image: url('../站点地图_files/u0_normal.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:330px;
+    top:300px;
+    width:100px;
+    height:60px;
+}
+
+#u4_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:66px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:24px;
+    width:96px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6_normal {
+    background-image: url('../站点地图_files/u0_normal.png');
+}
+
+.u6_container {
+    position:absolute;
+    left:330px;
+    top:460px;
+    width:100px;
+    height:60px;
+}
+
+#u6_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:66px;
+}
+
+.u7 {
+    position:absolute;
+    left:2px;
+    top:24px;
+    width:96px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8c0 {
+    background-image: url('../站点地图_files/u8c0.png');
+}
+
+.u8c0 {
+    position:absolute;
+    left:231px;
+    top:320px;
+    width:109px;
+    height:20px;
+}
+
+.u9 {
+    position:absolute;
+    left:-2px;
+    top:-8px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10c0 {
+    background-image: url('../站点地图_files/u10c0.png');
+}
+
+.u10c0 {
+    position:absolute;
+    left:270px;
+    top:480px;
+    width:64px;
+    height:20px;
+}
+
+.u10c1 {
+    background-image: url('../站点地图_files/u10c1.png');
+}
+
+.u10c1 {
+    position:absolute;
+    left:270px;
+    top:326px;
+    width:20px;
+    height:174px;
+}
+
+.u11 {
+    position:absolute;
+    left:-100px;
+    top:-63px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12c0 {
+    background-image: url('../站点地图_files/u12c0.png');
+}
+
+.u12c0 {
+    position:absolute;
+    left:270px;
+    top:165px;
+    width:64px;
+    height:20px;
+}
+
+.u12c1 {
+    background-image: url('../站点地图_files/u12c1.png');
+}
+
+.u12c1 {
+    position:absolute;
+    left:270px;
+    top:165px;
+    width:20px;
+    height:169px;
+}
+
+.u13 {
+    position:absolute;
+    left:-100px;
+    top:44px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14_normal {
+    background-image: url('../站点地图_files/u0_normal.png');
+}
+
+.u14_container {
+    position:absolute;
+    left:480px;
+    top:425px;
+    width:100px;
+    height:60px;
+}
+
+#u14_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:66px;
+}
+
+.u15 {
+    position:absolute;
+    left:2px;
+    top:24px;
+    width:96px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16_normal {
+    background-image: url('../站点地图_files/u0_normal.png');
+}
+
+.u16_container {
+    position:absolute;
+    left:480px;
+    top:510px;
+    width:100px;
+    height:60px;
+}
+
+#u16_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:66px;
+}
+
+.u17 {
+    position:absolute;
+    left:2px;
+    top:24px;
+    width:96px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18c0 {
+    background-image: url('../站点地图_files/u18c0.png');
+}
+
+.u18c0 {
+    position:absolute;
+    left:426px;
+    top:480px;
+    width:54px;
+    height:20px;
+}
+
+.u18c1 {
+    background-image: url('../站点地图_files/u18c1.png');
+}
+
+.u18c1 {
+    position:absolute;
+    left:460px;
+    top:445px;
+    width:20px;
+    height:55px;
+}
+
+.u18c2 {
+    background-image: url('../站点地图_files/u18c2.png');
+}
+
+.u18c2 {
+    position:absolute;
+    left:460px;
+    top:445px;
+    width:24px;
+    height:20px;
+}
+
+.u19 {
+    position:absolute;
+    left:-10px;
+    top:-10px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20c0 {
+    background-image: url('../站点地图_files/u20c0.png');
+}
+
+.u20c0 {
+    position:absolute;
+    left:426px;
+    top:480px;
+    width:54px;
+    height:20px;
+}
+
+.u20c1 {
+    background-image: url('../站点地图_files/u20c1.png');
+}
+
+.u20c1 {
+    position:absolute;
+    left:460px;
+    top:480px;
+    width:20px;
+    height:70px;
+}
+
+.u20c2 {
+    background-image: url('../站点地图_files/u20c2.png');
+}
+
+.u20c2 {
+    position:absolute;
+    left:460px;
+    top:530px;
+    width:24px;
+    height:20px;
+}
+
+.u21 {
+    position:absolute;
+    left:-10px;
+    top:2px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

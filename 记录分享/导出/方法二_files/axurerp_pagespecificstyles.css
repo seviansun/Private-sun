@@ -1,0 +1,201 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../方法二_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1026px;
+    height:1007px;
+}
+
+#u0_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1026px;
+    height:1007px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:496px;
+    width:1022px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../方法二_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:321px;
+    top:210px;
+    width:181px;
+    height:44px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:187px;
+    height:50px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:177px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:82px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u6 {
+    position:absolute;
+    left:269px;
+    top:1285px;
+    width:181px;
+    height:81px;
+    overflow:hidden;
+}
+
+#pd1u6 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:181px;
+    height:81px;
+    
+}
+
+.u7_normal {
+    background-image: url('../方法二_files/u7_normal.png');
+}
+
+.u7_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:180px;
+    height:80px;
+}
+
+#u7_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:86px;
+}
+
+.u8 {
+    position:absolute;
+    left:2px;
+    top:32px;
+    width:176px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd0u6 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:181px;
+    height:81px;
+    
+}
+
+.u9_normal {
+    background-image: url('../方法二_files/u7_normal.png');
+}
+
+.u9_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:180px;
+    height:80px;
+}
+
+#u9_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:86px;
+}
+
+.u10 {
+    position:absolute;
+    left:2px;
+    top:32px;
+    width:176px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
