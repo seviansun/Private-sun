@@ -1,0 +1,3530 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../插入表情_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:20px;
+    top:48px;
+    width:632px;
+    height:405px;
+}
+
+#u0_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:632px;
+    height:405px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:194px;
+    width:628px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:150px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u3_normal {
+    background-image: url('../插入表情_files/u3_normal.png');
+}
+
+.u3_container {
+    position:absolute;
+    left:885px;
+    top:401px;
+    width:998px;
+    height:277px;
+}
+
+#u3_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:998px;
+    height:277px;
+}
+
+.u4 {
+    position:absolute;
+    left:2px;
+    top:130px;
+    width:994px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5_normal {
+    background-image: url('../插入表情_files/u5_normal.png');
+}
+
+.u5_container {
+    position:absolute;
+    left:20px;
+    top:509px;
+    width:793px;
+    height:228px;
+}
+
+#u5_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:793px;
+    height:228px;
+}
+
+.u6 {
+    position:absolute;
+    left:2px;
+    top:106px;
+    width:789px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7 {
+    position:absolute;
+    left:20px;
+    top:473px;
+    width:150px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8 {
+    position:absolute;
+    left:20px;
+    top:764px;
+    width:150px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9_normal {
+    background-image: url('../插入表情_files/u9_normal.png');
+}
+
+.u9_container {
+    position:absolute;
+    left:20px;
+    top:800px;
+    width:699px;
+    height:245px;
+}
+
+#u9_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:699px;
+    height:245px;
+}
+
+.u10 {
+    position:absolute;
+    left:2px;
+    top:114px;
+    width:695px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11 {
+    position:absolute;
+    left:20px;
+    top:1070px;
+    width:150px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12_normal {
+    background-image: url('../插入表情_files/u12_normal.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:20px;
+    top:1102px;
+    width:737px;
+    height:384px;
+}
+
+#u12_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:737px;
+    height:384px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:184px;
+    width:733px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14 {
+    position:absolute;
+    left:885px;
+    top:378px;
+    width:150px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15_normal {
+    background-image: url('../插入表情_files/u15_normal.png');
+}
+
+.u15_container {
+    position:absolute;
+    left:20px;
+    top:1528px;
+    width:758px;
+    height:271px;
+}
+
+#u15_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:758px;
+    height:271px;
+}
+
+.u16 {
+    position:absolute;
+    left:2px;
+    top:128px;
+    width:754px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17 {
+    position:absolute;
+    left:20px;
+    top:1505px;
+    width:150px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18 {
+    position:absolute;
+    left:20px;
+    top:1825px;
+    width:150px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19_normal {
+    background-image: url('../插入表情_files/u19_normal.png');
+}
+
+.u19_container {
+    position:absolute;
+    left:20px;
+    top:1865px;
+    width:943px;
+    height:498px;
+}
+
+#u19_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:943px;
+    height:498px;
+}
+
+.u20 {
+    position:absolute;
+    left:2px;
+    top:241px;
+    width:939px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21_normal {
+    background-image: url('../插入表情_files/u21_normal.png');
+}
+
+.u21_container {
+    position:absolute;
+    left:20px;
+    top:2386px;
+    width:360px;
+    height:268px;
+}
+
+#u21_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:360px;
+    height:268px;
+}
+
+.u22 {
+    position:absolute;
+    left:2px;
+    top:126px;
+    width:356px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23 {
+    position:absolute;
+    left:20px;
+    top:2354px;
+    width:150px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24_normal {
+    background-image: url('../插入表情_files/u24_normal.png');
+}
+
+.u24_container {
+    position:absolute;
+    left:12px;
+    top:2701px;
+    width:809px;
+    height:463px;
+}
+
+#u24_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:809px;
+    height:463px;
+}
+
+.u25 {
+    position:absolute;
+    left:2px;
+    top:224px;
+    width:805px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26 {
+    position:absolute;
+    left:12px;
+    top:2664px;
+    width:150px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27_normal {
+    background-image: url('../插入表情_files/u27_normal.png');
+}
+
+.u27_container {
+    position:absolute;
+    left:12px;
+    top:3204px;
+    width:746px;
+    height:365px;
+}
+
+#u27_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:746px;
+    height:365px;
+}
+
+.u28 {
+    position:absolute;
+    left:2px;
+    top:174px;
+    width:742px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29 {
+    position:absolute;
+    left:12px;
+    top:3174px;
+    width:150px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u30_normal {
+    background-image: url('../插入表情_files/u30_normal.png');
+}
+
+.u30_container {
+    position:absolute;
+    left:12px;
+    top:3614px;
+    width:720px;
+    height:328px;
+}
+
+#u30_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:720px;
+    height:328px;
+}
+
+.u31 {
+    position:absolute;
+    left:2px;
+    top:156px;
+    width:716px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32 {
+    position:absolute;
+    left:12px;
+    top:3579px;
+    width:150px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u33_normal {
+    background-image: url('../插入表情_files/u33_normal.png');
+}
+
+.u33_container {
+    position:absolute;
+    left:20px;
+    top:4007px;
+    width:560px;
+    height:307px;
+}
+
+#u33_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:560px;
+    height:307px;
+}
+
+.u34 {
+    position:absolute;
+    left:2px;
+    top:146px;
+    width:556px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u35 {
+    position:absolute;
+    left:20px;
+    top:3974px;
+    width:150px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36_normal {
+    background-image: url('../插入表情_files/u36_normal.png');
+}
+
+.u36_container {
+    position:absolute;
+    left:20px;
+    top:4366px;
+    width:378px;
+    height:289px;
+}
+
+#u36_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:378px;
+    height:289px;
+}
+
+.u37 {
+    position:absolute;
+    left:2px;
+    top:136px;
+    width:374px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38 {
+    position:absolute;
+    left:20px;
+    top:4343px;
+    width:150px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u39 {
+    position:absolute;
+    left:677px;
+    top:48px;
+    width:755px;
+    height:285px
+}
+
+.u40_normal {
+    background-image: url('../插入表情_files/u40_normal.png');
+}
+
+.u40_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u40_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u41 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42_normal {
+    background-image: url('../插入表情_files/u42_normal.png');
+}
+
+.u42_container {
+    position:absolute;
+    left:100px;
+    top:0px;
+    width:500px;
+    height:20px;
+}
+
+#u42_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:506px;
+    height:26px;
+}
+
+.u43 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:496px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44_normal {
+    background-image: url('../插入表情_files/u44_normal.png');
+}
+
+.u44_container {
+    position:absolute;
+    left:600px;
+    top:0px;
+    width:150px;
+    height:20px;
+}
+
+#u44_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:26px;
+}
+
+.u45 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:146px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46_normal {
+    background-image: url('../插入表情_files/u40_normal.png');
+}
+
+.u46_container {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:100px;
+    height:20px;
+}
+
+#u46_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u47 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u48_normal {
+    background-image: url('../插入表情_files/u42_normal.png');
+}
+
+.u48_container {
+    position:absolute;
+    left:100px;
+    top:20px;
+    width:500px;
+    height:20px;
+}
+
+#u48_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:506px;
+    height:26px;
+}
+
+.u49 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:496px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50_normal {
+    background-image: url('../插入表情_files/u44_normal.png');
+}
+
+.u50_container {
+    position:absolute;
+    left:600px;
+    top:20px;
+    width:150px;
+    height:20px;
+}
+
+#u50_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:26px;
+}
+
+.u51 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:146px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u52_normal {
+    background-image: url('../插入表情_files/u40_normal.png');
+}
+
+.u52_container {
+    position:absolute;
+    left:0px;
+    top:40px;
+    width:100px;
+    height:20px;
+}
+
+#u52_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u53 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u54_normal {
+    background-image: url('../插入表情_files/u42_normal.png');
+}
+
+.u54_container {
+    position:absolute;
+    left:100px;
+    top:40px;
+    width:500px;
+    height:20px;
+}
+
+#u54_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:506px;
+    height:26px;
+}
+
+.u55 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:496px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u56_normal {
+    background-image: url('../插入表情_files/u44_normal.png');
+}
+
+.u56_container {
+    position:absolute;
+    left:600px;
+    top:40px;
+    width:150px;
+    height:20px;
+}
+
+#u56_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:26px;
+}
+
+.u57 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:146px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u58_normal {
+    background-image: url('../插入表情_files/u40_normal.png');
+}
+
+.u58_container {
+    position:absolute;
+    left:0px;
+    top:60px;
+    width:100px;
+    height:20px;
+}
+
+#u58_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u59 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u60_normal {
+    background-image: url('../插入表情_files/u42_normal.png');
+}
+
+.u60_container {
+    position:absolute;
+    left:100px;
+    top:60px;
+    width:500px;
+    height:20px;
+}
+
+#u60_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:506px;
+    height:26px;
+}
+
+.u61 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:496px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u62_normal {
+    background-image: url('../插入表情_files/u44_normal.png');
+}
+
+.u62_container {
+    position:absolute;
+    left:600px;
+    top:60px;
+    width:150px;
+    height:20px;
+}
+
+#u62_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:26px;
+}
+
+.u63 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:146px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u64_normal {
+    background-image: url('../插入表情_files/u40_normal.png');
+}
+
+.u64_container {
+    position:absolute;
+    left:0px;
+    top:80px;
+    width:100px;
+    height:20px;
+}
+
+#u64_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u65 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u66_normal {
+    background-image: url('../插入表情_files/u42_normal.png');
+}
+
+.u66_container {
+    position:absolute;
+    left:100px;
+    top:80px;
+    width:500px;
+    height:20px;
+}
+
+#u66_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:506px;
+    height:26px;
+}
+
+.u67 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:496px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u68_normal {
+    background-image: url('../插入表情_files/u44_normal.png');
+}
+
+.u68_container {
+    position:absolute;
+    left:600px;
+    top:80px;
+    width:150px;
+    height:20px;
+}
+
+#u68_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:26px;
+}
+
+.u69 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:146px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u70_normal {
+    background-image: url('../插入表情_files/u40_normal.png');
+}
+
+.u70_container {
+    position:absolute;
+    left:0px;
+    top:100px;
+    width:100px;
+    height:20px;
+}
+
+#u70_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u71 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u72_normal {
+    background-image: url('../插入表情_files/u42_normal.png');
+}
+
+.u72_container {
+    position:absolute;
+    left:100px;
+    top:100px;
+    width:500px;
+    height:20px;
+}
+
+#u72_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:506px;
+    height:26px;
+}
+
+.u73 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:496px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u74_normal {
+    background-image: url('../插入表情_files/u44_normal.png');
+}
+
+.u74_container {
+    position:absolute;
+    left:600px;
+    top:100px;
+    width:150px;
+    height:20px;
+}
+
+#u74_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:26px;
+}
+
+.u75 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:146px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u76_normal {
+    background-image: url('../插入表情_files/u40_normal.png');
+}
+
+.u76_container {
+    position:absolute;
+    left:0px;
+    top:120px;
+    width:100px;
+    height:20px;
+}
+
+#u76_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u77 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u78_normal {
+    background-image: url('../插入表情_files/u42_normal.png');
+}
+
+.u78_container {
+    position:absolute;
+    left:100px;
+    top:120px;
+    width:500px;
+    height:20px;
+}
+
+#u78_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:506px;
+    height:26px;
+}
+
+.u79 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:496px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u80_normal {
+    background-image: url('../插入表情_files/u44_normal.png');
+}
+
+.u80_container {
+    position:absolute;
+    left:600px;
+    top:120px;
+    width:150px;
+    height:20px;
+}
+
+#u80_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:26px;
+}
+
+.u81 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:146px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u82_normal {
+    background-image: url('../插入表情_files/u40_normal.png');
+}
+
+.u82_container {
+    position:absolute;
+    left:0px;
+    top:140px;
+    width:100px;
+    height:20px;
+}
+
+#u82_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u83 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u84_normal {
+    background-image: url('../插入表情_files/u42_normal.png');
+}
+
+.u84_container {
+    position:absolute;
+    left:100px;
+    top:140px;
+    width:500px;
+    height:20px;
+}
+
+#u84_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:506px;
+    height:26px;
+}
+
+.u85 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:496px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u86_normal {
+    background-image: url('../插入表情_files/u44_normal.png');
+}
+
+.u86_container {
+    position:absolute;
+    left:600px;
+    top:140px;
+    width:150px;
+    height:20px;
+}
+
+#u86_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:26px;
+}
+
+.u87 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:146px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u88_normal {
+    background-image: url('../插入表情_files/u40_normal.png');
+}
+
+.u88_container {
+    position:absolute;
+    left:0px;
+    top:160px;
+    width:100px;
+    height:20px;
+}
+
+#u88_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u89 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u90_normal {
+    background-image: url('../插入表情_files/u42_normal.png');
+}
+
+.u90_container {
+    position:absolute;
+    left:100px;
+    top:160px;
+    width:500px;
+    height:20px;
+}
+
+#u90_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:506px;
+    height:26px;
+}
+
+.u91 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:496px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u92_normal {
+    background-image: url('../插入表情_files/u44_normal.png');
+}
+
+.u92_container {
+    position:absolute;
+    left:600px;
+    top:160px;
+    width:150px;
+    height:20px;
+}
+
+#u92_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:26px;
+}
+
+.u93 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:146px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u94_normal {
+    background-image: url('../插入表情_files/u40_normal.png');
+}
+
+.u94_container {
+    position:absolute;
+    left:0px;
+    top:180px;
+    width:100px;
+    height:20px;
+}
+
+#u94_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u95 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u96_normal {
+    background-image: url('../插入表情_files/u42_normal.png');
+}
+
+.u96_container {
+    position:absolute;
+    left:100px;
+    top:180px;
+    width:500px;
+    height:20px;
+}
+
+#u96_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:506px;
+    height:26px;
+}
+
+.u97 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:496px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u98_normal {
+    background-image: url('../插入表情_files/u44_normal.png');
+}
+
+.u98_container {
+    position:absolute;
+    left:600px;
+    top:180px;
+    width:150px;
+    height:20px;
+}
+
+#u98_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:26px;
+}
+
+.u99 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:146px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u100_normal {
+    background-image: url('../插入表情_files/u40_normal.png');
+}
+
+.u100_container {
+    position:absolute;
+    left:0px;
+    top:200px;
+    width:100px;
+    height:20px;
+}
+
+#u100_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u101 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u102_normal {
+    background-image: url('../插入表情_files/u42_normal.png');
+}
+
+.u102_container {
+    position:absolute;
+    left:100px;
+    top:200px;
+    width:500px;
+    height:20px;
+}
+
+#u102_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:506px;
+    height:26px;
+}
+
+.u103 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:496px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u104_normal {
+    background-image: url('../插入表情_files/u44_normal.png');
+}
+
+.u104_container {
+    position:absolute;
+    left:600px;
+    top:200px;
+    width:150px;
+    height:20px;
+}
+
+#u104_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:26px;
+}
+
+.u105 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:146px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u106_normal {
+    background-image: url('../插入表情_files/u40_normal.png');
+}
+
+.u106_container {
+    position:absolute;
+    left:0px;
+    top:220px;
+    width:100px;
+    height:20px;
+}
+
+#u106_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u107 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u108_normal {
+    background-image: url('../插入表情_files/u42_normal.png');
+}
+
+.u108_container {
+    position:absolute;
+    left:100px;
+    top:220px;
+    width:500px;
+    height:20px;
+}
+
+#u108_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:506px;
+    height:26px;
+}
+
+.u109 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:496px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u110_normal {
+    background-image: url('../插入表情_files/u44_normal.png');
+}
+
+.u110_container {
+    position:absolute;
+    left:600px;
+    top:220px;
+    width:150px;
+    height:20px;
+}
+
+#u110_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:26px;
+}
+
+.u111 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:146px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u112_normal {
+    background-image: url('../插入表情_files/u40_normal.png');
+}
+
+.u112_container {
+    position:absolute;
+    left:0px;
+    top:240px;
+    width:100px;
+    height:20px;
+}
+
+#u112_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u113 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u114_normal {
+    background-image: url('../插入表情_files/u42_normal.png');
+}
+
+.u114_container {
+    position:absolute;
+    left:100px;
+    top:240px;
+    width:500px;
+    height:20px;
+}
+
+#u114_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:506px;
+    height:26px;
+}
+
+.u115 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:496px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u116_normal {
+    background-image: url('../插入表情_files/u44_normal.png');
+}
+
+.u116_container {
+    position:absolute;
+    left:600px;
+    top:240px;
+    width:150px;
+    height:20px;
+}
+
+#u116_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:26px;
+}
+
+.u117 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:146px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u118_normal {
+    background-image: url('../插入表情_files/u40_normal.png');
+}
+
+.u118_container {
+    position:absolute;
+    left:0px;
+    top:260px;
+    width:100px;
+    height:20px;
+}
+
+#u118_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u119 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u120_normal {
+    background-image: url('../插入表情_files/u42_normal.png');
+}
+
+.u120_container {
+    position:absolute;
+    left:100px;
+    top:260px;
+    width:500px;
+    height:20px;
+}
+
+#u120_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:506px;
+    height:26px;
+}
+
+.u121 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:496px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u122_normal {
+    background-image: url('../插入表情_files/u44_normal.png');
+}
+
+.u122_container {
+    position:absolute;
+    left:600px;
+    top:260px;
+    width:150px;
+    height:20px;
+}
+
+#u122_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:26px;
+}
+
+.u123 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:146px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u124 {
+    position:absolute;
+    left:1487px;
+    top:48px;
+    width:438px;
+    height:78px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u125_normal {
+    background-image: url('../插入表情_files/u125_normal.png');
+}
+
+.u125_container {
+    position:absolute;
+    left:2020px;
+    top:130px;
+    width:20px;
+    height:20px;
+}
+
+#u125_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:26px;
+    height:26px;
+}
+
+.u126 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:16px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u127_normal {
+    background-image: url('../插入表情_files/u127_normal.png');
+}
+
+.u127_container {
+    position:absolute;
+    left:1928px;
+    top:161px;
+    width:298px;
+    height:230px;
+}
+
+#u127_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:304px;
+    height:236px;
+}
+
+.u128 {
+    position:absolute;
+    left:2px;
+    top:107px;
+    width:294px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u129_normal {
+    background-image: url('../插入表情_files/u129_normal.png');
+}
+
+.u129_container {
+    position:absolute;
+    left:1926px;
+    top:159px;
+    width:298px;
+    height:230px;
+}
+
+#u129_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:304px;
+    height:236px;
+}
+
+.u130 {
+    position:absolute;
+    left:2px;
+    top:107px;
+    width:294px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u131_normal {
+    background-image: url('../插入表情_files/u131_normal.png');
+}
+
+.u131_container {
+    position:absolute;
+    left:2024px;
+    top:150px;
+    width:13px;
+    height:9px;
+}
+
+#u131_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:19px;
+    height:15px;
+}
+
+.u132 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:9px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u133_line {
+    background-image: url('../插入表情_files/u133_line.png');
+}
+
+.u133_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:12px;
+    height:3px;
+}
+
+.u133 {
+    position:absolute;
+    left:2024px;
+    top:156px;
+    width:12px;
+    height:10px;
+    
+}
+
+.u134_normal {
+    background-image: url('../插入表情_files/u134_normal.png');
+}
+
+.u134_container {
+    position:absolute;
+    left:1935px;
+    top:200px;
+    width:280px;
+    height:161px;
+}
+
+#u134_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:286px;
+    height:167px;
+}
+
+.u135 {
+    position:absolute;
+    left:2px;
+    top:72px;
+    width:276px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u136_normal {
+    background-image: url('../插入表情_files/u136_normal.png');
+}
+
+.u136_container {
+    position:absolute;
+    left:1944px;
+    top:211px;
+    width:130px;
+    height:31px;
+}
+
+#u136_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:31px;
+}
+
+.u137 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u138_normal {
+    background-image: url('../插入表情_files/u136_normal.png');
+}
+
+.u138_container {
+    position:absolute;
+    left:2074px;
+    top:211px;
+    width:130px;
+    height:31px;
+}
+
+#u138_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:31px;
+}
+
+.u139 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u140_normal {
+    background-image: url('../插入表情_files/u136_normal.png');
+}
+
+.u140_container {
+    position:absolute;
+    left:1944px;
+    top:241px;
+    width:130px;
+    height:31px;
+}
+
+#u140_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:31px;
+}
+
+.u141 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u142_normal {
+    background-image: url('../插入表情_files/u136_normal.png');
+}
+
+.u142_container {
+    position:absolute;
+    left:2074px;
+    top:241px;
+    width:130px;
+    height:31px;
+}
+
+#u142_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:31px;
+}
+
+.u143 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u144_normal {
+    background-image: url('../插入表情_files/u136_normal.png');
+}
+
+.u144_container {
+    position:absolute;
+    left:1944px;
+    top:281px;
+    width:130px;
+    height:31px;
+}
+
+#u144_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:31px;
+}
+
+.u145 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u146_normal {
+    background-image: url('../插入表情_files/u136_normal.png');
+}
+
+.u146_container {
+    position:absolute;
+    left:2074px;
+    top:281px;
+    width:130px;
+    height:31px;
+}
+
+#u146_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:31px;
+}
+
+.u147 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u148_normal {
+    background-image: url('../插入表情_files/u136_normal.png');
+}
+
+.u148_container {
+    position:absolute;
+    left:1944px;
+    top:321px;
+    width:130px;
+    height:31px;
+}
+
+#u148_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:31px;
+}
+
+.u149 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u150_normal {
+    background-image: url('../插入表情_files/u136_normal.png');
+}
+
+.u150_container {
+    position:absolute;
+    left:2074px;
+    top:321px;
+    width:130px;
+    height:31px;
+}
+
+#u150_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:31px;
+}
+
+.u151 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u152 {
+    position:absolute;
+    left:1935px;
+    top:172px;
+    width:77px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u153 {
+    position:absolute;
+    left:1999px;
+    top:172px;
+    width:100px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u154 {
+    position:absolute;
+    left:2061px;
+    top:172px;
+    width:100px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u155_normal {
+    background-image: url('../插入表情_files/u155_normal.png');
+}
+
+.u155_container {
+    position:absolute;
+    left:2074px;
+    top:364px;
+    width:141px;
+    height:19px;
+}
+
+#u155_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:141px;
+    height:19px;
+}
+
+.u156 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:137px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u157_normal {
+    background-image: url('../插入表情_files/u127_normal.png');
+}
+
+.u157_container {
+    position:absolute;
+    left:1930px;
+    top:403px;
+    width:298px;
+    height:230px;
+}
+
+#u157_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:304px;
+    height:236px;
+}
+
+.u158 {
+    position:absolute;
+    left:2px;
+    top:107px;
+    width:294px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u159_normal {
+    background-image: url('../插入表情_files/u129_normal.png');
+}
+
+.u159_container {
+    position:absolute;
+    left:1928px;
+    top:401px;
+    width:298px;
+    height:230px;
+}
+
+#u159_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:304px;
+    height:236px;
+}
+
+.u160 {
+    position:absolute;
+    left:2px;
+    top:107px;
+    width:294px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u161_normal {
+    background-image: url('../插入表情_files/u134_normal.png');
+}
+
+.u161_container {
+    position:absolute;
+    left:1937px;
+    top:442px;
+    width:280px;
+    height:161px;
+}
+
+#u161_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:286px;
+    height:167px;
+}
+
+.u162 {
+    position:absolute;
+    left:2px;
+    top:72px;
+    width:276px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u163 {
+    position:absolute;
+    left:2061px;
+    top:414px;
+    width:77px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u164 {
+    position:absolute;
+    left:1938px;
+    top:414px;
+    width:100px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u165 {
+    position:absolute;
+    left:2001px;
+    top:414px;
+    width:100px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u166_normal {
+    background-image: url('../插入表情_files/u155_normal.png');
+}
+
+.u166_container {
+    position:absolute;
+    left:2076px;
+    top:606px;
+    width:141px;
+    height:19px;
+}
+
+#u166_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:141px;
+    height:19px;
+}
+
+.u167 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:137px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u168_normal {
+    background-image: url('../插入表情_files/u168_normal.png');
+}
+
+.u168_container {
+    position:absolute;
+    left:1950px;
+    top:451px;
+    width:23px;
+    height:29px;
+}
+
+#u168_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:23px;
+    height:29px;
+}
+
+.u169 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:19px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u170_normal {
+    background-image: url('../插入表情_files/u168_normal.png');
+}
+
+.u170_container {
+    position:absolute;
+    left:1982px;
+    top:451px;
+    width:23px;
+    height:29px;
+}
+
+#u170_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:23px;
+    height:29px;
+}
+
+.u171 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:19px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u172 {
+    position:absolute;
+    left:1751px;
+    top:169px;
+    width:140px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u173_normal {
+    background-image: url('../插入表情_files/u168_normal.png');
+}
+
+.u173_container {
+    position:absolute;
+    left:2014px;
+    top:451px;
+    width:23px;
+    height:29px;
+}
+
+#u173_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:23px;
+    height:29px;
+}
+
+.u174 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:19px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u175_normal {
+    background-image: url('../插入表情_files/u168_normal.png');
+}
+
+.u175_container {
+    position:absolute;
+    left:2046px;
+    top:451px;
+    width:23px;
+    height:29px;
+}
+
+#u175_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:23px;
+    height:29px;
+}
+
+.u176 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:19px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u177_normal {
+    background-image: url('../插入表情_files/u168_normal.png');
+}
+
+.u177_container {
+    position:absolute;
+    left:2079px;
+    top:451px;
+    width:23px;
+    height:29px;
+}
+
+#u177_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:23px;
+    height:29px;
+}
+
+.u178 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:19px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u179_normal {
+    background-image: url('../插入表情_files/u168_normal.png');
+}
+
+.u179_container {
+    position:absolute;
+    left:2111px;
+    top:451px;
+    width:23px;
+    height:29px;
+}
+
+#u179_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:23px;
+    height:29px;
+}
+
+.u180 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:19px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u181_normal {
+    background-image: url('../插入表情_files/u168_normal.png');
+}
+
+.u181_container {
+    position:absolute;
+    left:2143px;
+    top:451px;
+    width:23px;
+    height:29px;
+}
+
+#u181_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:23px;
+    height:29px;
+}
+
+.u182 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:19px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u183_normal {
+    background-image: url('../插入表情_files/placeholder_u183_normal.png');
+}
+
+.u183_container {
+    position:absolute;
+    left:2176px;
+    top:451px;
+    width:30px;
+    height:30px;
+}
+
+#u183_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:36px;
+}
+
+.u184 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:26px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u185_normal {
+    background-image: url('../插入表情_files/u185_normal.png');
+}
+
+.u185_container {
+    position:absolute;
+    left:2258px;
+    top:287px;
+    width:585px;
+    height:426px;
+}
+
+#u185_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:585px;
+    height:426px;
+}
+
+.u186 {
+    position:absolute;
+    left:2px;
+    top:205px;
+    width:581px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u187_normal {
+    background-image: url('../插入表情_files/u187_normal.png');
+}
+
+.u187_container {
+    position:absolute;
+    left:2141px;
+    top:209px;
+    width:61px;
+    height:61px;
+}
+
+#u187_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:67px;
+    height:67px;
+}
+
+.u188 {
+    position:absolute;
+    left:2px;
+    top:22px;
+    width:57px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u189_normal {
+    background-image: url('../插入表情_files/u189_normal.png');
+}
+
+.u189_container {
+    position:absolute;
+    left:2142px;
+    top:210px;
+    width:60px;
+    height:60px;
+}
+
+#u189_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:60px;
+    height:60px;
+}
+
+.u190 {
+    position:absolute;
+    left:2px;
+    top:22px;
+    width:56px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u191_normal {
+    background-image: url('../插入表情_files/u191_normal.png');
+}
+
+.u191_container {
+    position:absolute;
+    left:2260px;
+    top:161px;
+    width:183px;
+    height:93px;
+}
+
+#u191_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:189px;
+    height:99px;
+}
+
+.u192 {
+    position:absolute;
+    left:2px;
+    top:38px;
+    width:179px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u193_normal {
+    background-image: url('../插入表情_files/u193_normal.png');
+}
+
+.u193_container {
+    position:absolute;
+    left:2258px;
+    top:159px;
+    width:185px;
+    height:95px;
+}
+
+#u193_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:191px;
+    height:101px;
+}
+
+.u194 {
+    position:absolute;
+    left:2px;
+    top:40px;
+    width:181px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u195_normal {
+    background-image: url('../插入表情_files/u195_normal.png');
+}
+
+.u195_container {
+    position:absolute;
+    left:2266px;
+    top:168px;
+    width:170px;
+    height:80px;
+}
+
+#u195_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:176px;
+    height:86px;
+}
+
+.u196 {
+    position:absolute;
+    left:2px;
+    top:32px;
+    width:166px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u197_normal {
+    background-image: url('../插入表情_files/u136_normal.png');
+}
+
+.u197_container {
+    position:absolute;
+    left:2275px;
+    top:179px;
+    width:130px;
+    height:31px;
+}
+
+#u197_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:31px;
+}
+
+.u198 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u199_normal {
+    background-image: url('../插入表情_files/u136_normal.png');
+}
+
+.u199_container {
+    position:absolute;
+    left:2275px;
+    top:209px;
+    width:130px;
+    height:31px;
+}
+
+#u199_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:31px;
+}
+
+.u200 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u201_normal {
+    background-image: url('../插入表情_files/u168_normal.png');
+}
+
+.u201_container {
+    position:absolute;
+    left:2406px;
+    top:179px;
+    width:23px;
+    height:29px;
+}
+
+#u201_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:23px;
+    height:29px;
+}
+
+.u202 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:19px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u203_normal {
+    background-image: url('../插入表情_files/u168_normal.png');
+}
+
+.u203_container {
+    position:absolute;
+    left:2406px;
+    top:209px;
+    width:23px;
+    height:29px;
+}
+
+#u203_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:23px;
+    height:29px;
+}
+
+.u204 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:19px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u205_normal {
+    background-image: url('../插入表情_files/u131_normal.png');
+}
+
+.u205_container {
+    position:absolute;
+    left:2318px;
+    top:150px;
+    width:13px;
+    height:9px;
+}
+
+#u205_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:19px;
+    height:15px;
+}
+
+.u206 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:9px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u207_line {
+    background-image: url('../插入表情_files/u207_line.png');
+}
+
+.u207_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:12px;
+    height:3px;
+}
+
+.u207 {
+    position:absolute;
+    left:2318px;
+    top:156px;
+    width:12px;
+    height:10px;
+    
+}
+
+.u208_normal {
+    background-image: url('../插入表情_files/u125_normal.png');
+}
+
+.u208_container {
+    position:absolute;
+    left:2314px;
+    top:130px;
+    width:20px;
+    height:20px;
+}
+
+#u208_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:26px;
+    height:26px;
+}
+
+.u209 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:16px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
